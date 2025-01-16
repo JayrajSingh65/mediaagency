@@ -112,7 +112,7 @@ const FAQAndFooter = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">CreatorWala</h3>
             <p className="text-gray-400 text-sm">
-              Kenya's #1 leading digital agency based in the UK - working with top-tier clients, from start-ups to enterprises
+              india's #1 leading digital agency based in the Jaipur - working with top-tier clients, from start-ups to enterprises
             </p>
           </div>
 
@@ -130,9 +130,9 @@ const FAQAndFooter = () => {
 
               {/* Contact Info */}
               <div className="space-y-4">
-                <a href="mailto:info@brand.com" className="flex items-center gap-2 text-gray-400 hover:text-lime-400">
+                <a href="mailto:creatorswala@gmail.com" className="flex items-center gap-2 text-gray-400 hover:text-lime-400">
                   <Mail className="w-4 h-4" />
-                  <span>info@brand.com</span>
+                  <span>creatorswala@gmail.com</span>
                 </a>
                 <a href="tel:(001) 233-5435" className="flex items-center gap-2 text-gray-400 hover:text-lime-400">
                   <Phone className="w-4 h-4" />
@@ -148,7 +148,7 @@ const FAQAndFooter = () => {
                 <a href="#" className="text-gray-400 hover:text-lime-400">
                   <Linkedin className="w-5 h-5" />
                 </a>
-                <a href="#" className="text-gray-400 hover:text-lime-400">
+                <a href="https://www.instagram.com/creatorswala.in?igsh=b2dnNmtzNWJqNDV4&utm_source=qr" className="text-gray-400 hover:text-lime-400">
                   <Instagram className="w-5 h-5" />
                 </a>
               </div>
@@ -158,7 +158,7 @@ const FAQAndFooter = () => {
 
         {/* Copyright */}
         <div className="mt-12 pt-8 border-t border-gray-800 text-center text-gray-400 text-sm">
-          © 2023 username , All Right Reserved
+          © 2023 CreatorsWala, All Right Reserved
         </div>
       </footer>
     </div>
