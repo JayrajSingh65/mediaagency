@@ -1,0 +1,55 @@
+/* Home Page Styling */
+.home-page {
+  width: 1440px;
+  height: 10843px;
+  top: -5911px;
+  left: -2853px;
+ background: rgba(17, 18, 4, 1);
+}
+
+/* Ellipse Styling */
+.ellipse {
+  width: 416px;
+  height: 309px;
+  top: 166px;
+  left: 512px;
+  background: rgba(185, 253, 80, 0.4);
+  position: absolute; /* Ensures it can be positioned using top/left */
+  border-radius: 50%; /* Makes it an ellipse */
+}
+.creators-wala {
+  width: 208px;
+  height: 45px;
+  top: 39px;
+  left: 93px;
+  gap: 0px;
+  opacity: 0px;
+  position: relative;
+}
+
+.nav-links {
+  width: 419px;
+  height: 26px;
+  top: 49px;
+  left: 659px;
+  gap: 32px;
+  opacity: 0px;
+  position: relative;
+}
+
+.lets-talk-btn {
+  width: 160px;
+  height: 56px;
+  top: 34px;
+  left: 1130px;
+  padding: 8px 0px 0px 0px;
+  gap: 8px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(185, 253, 80, 1);
+  transition: background-color 0.3s;
+}
+
+.lets-talk-btn:hover {
+  background: rgba(185, 253, 80, 0.8);
+}
