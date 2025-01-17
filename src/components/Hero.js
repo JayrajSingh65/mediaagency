@@ -28,7 +28,7 @@ const Hero = () => {
 
         {/* Call to Action Button */}
         <button className="bg-lime-400 text-black px-6 sm:px-8 py-3 rounded-lg font-medium hover:bg-lime-300 transition-colors focus:ring-4 focus:ring-lime-300 focus:outline-none">
-          Book A Meeting
+          <a href="https://calendly.com/creatorswalaa/30min">Book A Meeting</a>
         </button>
 
         {/* Trusted by Brands Section */}
@@ -45,8 +45,8 @@ const Hero = () => {
           <div className="bg-[rgba(34,34,34,1)] grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5 p-4 rounded-md">
             {/* Brand 1 */}
             <div className="flex flex-col items-center">
-              <Layers className="w-10 h-10 sm:w-16 sm:h-16 text-gray-300" />
-              <span className="text-gray-300 mt-2 text-xs sm:text-base">
+            <img src="./logo/dev.png" className="w-10 h-10"/>
+               <span className="text-gray-300 mt-2 text-xs sm:text-base">
                 Layers
               </span>
             </div>

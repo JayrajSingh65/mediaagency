@@ -10,7 +10,6 @@ const MobileMenu = ({ isOpen, onClose }) => (
       </button>
     </div>
     <div className="flex flex-col items-center gap-8 p-8">
-      <a href="#process" onClick={onClose} className="text-xl text-white hover:text-lime-400 transition-colors">Process</a>
       <a href="#benefits" onClick={onClose} className="text-xl text-white hover:text-lime-400 transition-colors">Benefits</a>
       <a href="#services" onClick={onClose} className="text-xl text-white hover:text-lime-400 transition-colors">Services</a>
       <a href="#portfolio" onClick={onClose} className="text-xl text-white hover:text-lime-400 transition-colors">Portfolio</a>
@@ -32,8 +31,8 @@ const Navbar = () => {
         <div className="container mx-auto px-4 sm:px-6 py-4">
           <div className="flex justify-between items-center">
           <a className="text-2xl font-bold h-17 w-38 mt-15.06 ml-57.14" href="/">
-          <span className="text-white">Kro</span>
-          <span className="text-[rgb(185,253,80)]">nix</span>
+          <span className="text-white">Creators</span>
+          <span className="text-[rgb(185,253,80)]">Wala</span>
         </a>
             <div className="hidden md:flex items-center gap-8">
               <div className="flex gap-8">
@@ -147,7 +146,7 @@ const LandingPage = () => {
             for your business through powerful workflow seamless.
           </p>
           <button className="bg-lime-400 text-black px-6 sm:px-8 py-3 rounded-lg font-medium hover:bg-lime-300 transition-colors">
-            Book A Meeting
+           <a href="https://calendly.com/creatorswalaa/30min">Book Meeting</a>
           </button>
         </div>
       </section>

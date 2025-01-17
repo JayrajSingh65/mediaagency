@@ -136,7 +136,7 @@ const FAQAndFooter = () => {
                 </a>
                 <a href="tel:(001) 233-5435" className="flex items-center gap-2 text-gray-400 hover:text-lime-400">
                   <Phone className="w-4 h-4" />
-                  <span>(001) 233-5435</span>
+                  <span>8058571057</span>
                 </a>
               </div>
 

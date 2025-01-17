@@ -6,7 +6,7 @@ const PricingSection = () => {
     {
       name: 'Basics',
       description: 'One request at a time. For companies who need on-going design support.',
-      price: '2,995',
+      price: '199',
       interval: 'm',
       priceSubtext: 'Pause or cancel anytime',
       features: [
@@ -22,7 +22,7 @@ const PricingSection = () => {
     {
       name: 'Growth',
       description: 'Double the requests. For companies with increasing design needs. Limited spots.',
-      price: '4,795',
+      price: '699',
       interval: 'm',
       priceSubtext: 'Pause or cancel anytime',
       badge: 'Best value',
@@ -39,7 +39,7 @@ const PricingSection = () => {
     {
       name: 'Standard',
       description: 'Perfect if you want to try the subscription out or only have a few one-off tasks.',
-      price: '890',
+      price: '499',
       interval: 'm',
       priceSubtext: 'Paid per weekly',
       badge: 'Most Popular',
@@ -117,7 +117,7 @@ const PricingSection = () => {
               {/* Buttons */}
               <div className="space-y-3">
                 <button className="w-full py-3 px-4 rounded-lg border border-gray-700 text-white hover:bg-gray-800 transition-colors">
-                  Book A Call
+                  <a href='https://calendly.com/creatorswalaa/30min'>Book A Call</a>
                 </button>
               </div>
             </div>

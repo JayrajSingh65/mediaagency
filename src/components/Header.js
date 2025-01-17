@@ -23,7 +23,7 @@ const Navbar = () => {
             <a href="#faq" className="text-gray-300 hover:text-lime-400 transition-colors">Portfolio</a>
             <a href="#pathway" className="text-gray-300 hover:text-lime-400 transition-colors">Creators</a>
             <button className="bg-lime-400 text-black px-5 py-2 rounded-lg font-medium hover:bg-lime-300 transition-colors">
-              <a href="#faq">Let's Talk</a>
+              <a href="https://calendly.com/creatorswalaa/30min">Let's Talk</a>
             </button>
           </div>
 
@@ -66,7 +66,7 @@ const Navbar = () => {
             Creators
           </a>
           <button className="bg-lime-400 text-black px-6 py-3 rounded-lg font-medium w-full max-w-xs">
-            Let's Talk
+              <a href='https://calendly.com/creatorswalaa/30min'>Let's Talk</a>
           </button>
         </div>
       </div>
