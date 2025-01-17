@@ -42,7 +42,7 @@ const Hero = () => {
           </div>
 
           {/* Brand Logos Grid */}
-          <div className="bg-[rgba(34,34,34,1)] grid grid-cols-2 gap-4 sm:grid-col-5 lg:grid-cols-5 p-4 rounded-md">
+          <div className="bg-[rgba(34,34,34,1)] grid grid-cols-2 gap-4 sm:grid-col-5 lg:grid-cols-6 p-4 rounded-md">
             {/* Brand 1 */}
             <div className="flex flex-col items-center">
                <span className="text-green-300 mt-4 text-xl sm:text-base font-bold">
