@@ -42,36 +42,41 @@ const Hero = () => {
           </div>
 
           {/* Brand Logos Grid */}
-          <div className="bg-[rgba(34,34,34,1)] grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5 p-4 rounded-md">
+          <div className="bg-[rgba(34,34,34,1)] grid grid-cols-2 gap-4 sm:grid-col-5 lg:grid-cols-5 p-4 rounded-md">
             {/* Brand 1 */}
             <div className="flex flex-col items-center">
-               <span className="text-green-300 mt-4 text-8xl sm:text-base font-bold">
+               <span className="text-green-300 mt-4 text-xl sm:text-base font-bold">
                 AngleOne
               </span>
             </div>
             {/* Brand 2 */}
             <div className="flex flex-col items-center">
              
-            <span className="text-purple-400 mt-4 text-8xl sm:text-base font-bold">
+            <span className="text-purple-400 mt-4 text-xl sm:text-base font-bold">
                 Punch
               </span>
             </div>
             {/* Brand 3 */}
             <div className="flex flex-col items-center">
-            <span className="text-blue-300 mt-4 text-8xl sm:text-base font-bold">
+            <span className="text-blue-300 mt-4 text-xl sm:text-base font-bold">
                 Udaan
               </span>
             </div>
             {/* Brand 4 */}
             <div className="flex flex-col items-center">
-            <span className="text-yellow-300 mt-4 text-8xl sm:text-base font-bold">
+            <span className="text-yellow-300 mt-4 text-xl sm:text-base font-bold">
                 curefit
               </span>
             </div>
             {/* Brand 5 */}
             <div className="flex flex-col items-center">
-            <span className="text-pink-300 mt-4 text-8xl sm:text-base font-bold">
+            <span className="text-pink-300 mt-4 text-xl sm:text-base font-bold">
                 Bimape
+              </span>
+            </div>
+            <div className="flex flex-col items-center">
+            <span className="text-slate-300 mt-4 text-xl sm:text-base font-bold">
+                velo
               </span>
             </div>
           </div>
