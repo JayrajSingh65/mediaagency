@@ -37,57 +37,57 @@ const Features = () => {
   const benefits = [
     {
       icon: <Infinity className="w-8 h-8" />,
-      title: "1. On-demand Requests",
+      title: "1. What services do you offer",
       description:
-        "Submit your requests in the design queue in just 15 seconds, and we'll tackle them one by one.",
+        "We provide a wide range of services, including video editing, social media visuals, graphic design, branding, email design, and complete content creation packages. ",
     },
     {
       icon: <Zap className="w-8 h-8" />,
-      title: "2. Top-notch Quality",
+      title: "2. How much do your services cost",
       description:
-        "Get high-end work from a dedicated team of vetted designers, always available when you need them.",
+        "We offer different pricing plans to suit various needs and budgets. From basic editing packages to comprehensive content creation solutions, you’ll find a plan that fits you. Check our pricing section for details.",
     },
     {
       icon: <Workflow className="w-8 h-8" />,
-      title: "3. Powered by Webflow",
+      title: "3. Do you provide ongoing support?",
       description:
-        "We build every site on Webflow, making websites super-fast and instantly editable. It’s easy for you to shine and go further.",
+        " Yes, we offer continuous support for all our subscription plans, ensuring a seamless experience throughout our collaboration.",
     },
     {
       icon: <Clock className="w-8 h-8" />,
-      title: "4. Fast, Responsive, Reliable",
+      title: "4.  Can you handle urgent projects?",
       description:
-        "Receive regular updates on your projects and get support to deliver designs seamlessly within our system.",
+        "  Yes, we understand that tight deadlines happen. Let us know your timeline, and we’ll do our best to deliver on time without compromising quality ",
     },
     {
       icon: <Lock className="w-8 h-8" />,
-      title: "5. No Lock-in Contracts",
+      title: "5. Are there any hidden fees",
       description:
-        "Pay the same every month with no surprises. Pause or cancel anytime with ease.",
+        "No, our pricing is transparent. You pay a flat monthly fee with no surprise charges.",
     },
     {
       icon: <DollarSign className="w-8 h-8" />,
-      title: "6. Great Value for Money",
+      title: "6. Do you offer custom packages?",
       description:
-        "Enjoy the power of a dedicated design team at a fraction of the cost of a full-time employee. Predictable pricing with no surprise bills.",
+        " Yes, we can create custom packages based on your specific needs. Just reach out to us, and we’ll craft a solution tailored to your requirements",
     },
     {
       icon: <UserCog className="w-8 h-8" />,
-      title: "7. Tailored to You",
+      title: "7. How do I communicate with your team",
       description:
-        "We design and build custom solutions just for you, starting from scratch unless you prefer templates.",
+        " You’ll have a dedicated project manager who’ll keep you updated. We also provide regular communication via Slack, email, or WhatsApp—whichever works best for you.",
     },
     {
       icon: <Award className="w-8 h-8" />,
-      title: "8. Creative Freedom",
+      title: "8.  How does your process work",
       description:
-        "We’re here when you need us. No waiting or unnecessary delays—just seamless service.",
+        "Once you share your requirements with us, we start by understanding your vision. From there, we conceptualize, design, and deliver high-quality content tailored to your brand. You can request revisions as needed.",
     },
     {
       icon: <Users className="w-8 h-8" />,
-      title: "9. Expert Designers",
+      title: "9. What makes CreatorsWala different from other agencies?",
       description:
-        "Benefit from 10+ years of design experience with every request. No hand-holding required.",
+        " Our focus on reliability, creativity, and personalized support sets us apart. We don’t just create content; we partner with you to achieve your goals",
     },
   ];
 

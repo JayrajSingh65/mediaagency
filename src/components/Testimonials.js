@@ -8,26 +8,34 @@ const Testimonials = () => {
     {
       company: "sanjay.ig_",
       title: "CreatorWala Is The Best Digital Agency I Have Ever Seen! Highly Recommended!",
-      content: "I recently hired Ideapeel for a custom web development project and couldn't be happier with the results. The team was able to bring my unique ideas to life and create a website that truly stands out.",
+      content: "CreatorsWala didn’t just meet my expectations—they exceeded them. The team captured our brand’s essence perfectly and delivered results that genuinely helped us grow. They’re more than just a service provider; they’re partners in success.",
       author: "Sanjay Sanwala",
-      position: "Director of GYMSTORY",
+      position: "influncer",
       image: "sanjay.jpg"
     },
     {
       company: "Marwadi Traders",
-      title: "Outstanding Service and Results!",
-      content: "Working with CreatorWala has transformed our digital presence. Their attention to detail and creative solutions exceeded our expectations.",
+      title: "CreatorsWala Feels Like Part of My Team!",
+      content: "What I love about CreatorsWala is how invested they are in your success. Their ideas are fresh, their execution is flawless, and the results are clear. They’ve helped us achieve milestones we didn’t think were possible.",
       author: "Jayraj Singh",
-      position: "Marketing Director",
+      position: "CEO",
       image: "marwadi.png"
     },
     {
       company: "StockBurner",
-      title: "Exceptional Creative Partnership!",
-      content: "The team's ability to understand our vision and translate it into stunning digital experiences has been incredible. They're true partners in our success.",
+      title: "They Made My Life So Much Easier!",
+      content: "Before CreatorsWala, managing my content felt like a full-time job. Now, I can focus on creating while they handle everything else. Their editing and support are top-notch!",
       author: "Dinesh Kerola",
-      position: "Creative Lead",
+      position: "influnecer",
       image: "burner.jpg"
+    },
+    {
+      company: "mr_perfect_trader01",
+      title: "A Partner, Not Just a Service Provider!",
+      content: "CreatorsWala doesn’t feel like an agency—they feel like a partner. They care about your success and go the extra mile to make sure everything is perfect.",
+      author: "Abhijit Thakur",
+      position: "influnecer",
+      image: "thakur.jpg"
     }
   ];
 

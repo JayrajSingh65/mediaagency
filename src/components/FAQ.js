@@ -7,20 +7,20 @@ const FAQAndFooter = () => {
 
   const faqs = [
     {
-      question: "Do you have specific pricing plans to show?",
-      answer: "Yes, we offer various pricing plans tailored to different needs."
+      question: "What is CreatorsWala, and what do you do?",
+      answer: " CreatorsWala is a digital agency specializing in video editing, content creation, and branding services. We help creators, brands, and businesses grow by producing engaging content and elevating their online presence."
     },
     {
-      question: "How many years of experience do you have?",
-      answer: "Donec rutrum mauris et tortor commodo, era nulla voluptate tempus sit ut magna eu volutpat nunc. In duis magna magna nullam metus agen."
+      question: "How can I get started with CreatorsWala?",
+      answer: " Getting started is easy! Just book a call with us or fill out our contact form. We’ll discuss your goals, understand your needs, and create a tailored plan for you."
     },
     {
-      question: "What companies have you worked with?",
-      answer: "We've worked with various companies across different industries."
+      question: "Who do you work with?",
+      answer: " We work with creators, entrepreneurs, startups, and established brands across various industries. Whether you’re an individual looking to build your personal brand or a business aiming for growth, we’ve got you covered."
     },
     {
-      question: "Am I safe leaving my company in your hands?",
-      answer: "Yes, we prioritize security and confidentiality in all our client relationships."
+      question: "Where are you based, and do you work with international clients?",
+      answer: "We are based in Jaipur, India, but we work with clients worldwide. Distance is never a barrier when it comes to great collaboration."
     }
   ];
 
@@ -135,8 +135,8 @@ const FAQAndFooter = () => {
                   <span>creatorswala@gmail.com</span>
                 </a>
                 <a href="tel:(001) 233-5435" className="flex items-center gap-2 text-gray-400 hover:text-lime-400">
-                  <Phone className="w-4 h-4" />
-                  <span>8058571057</span>
+                  {/* <Phone className="w-4 h-4" /> */}
+                  <span></span>
                 </a>
               </div>
 
