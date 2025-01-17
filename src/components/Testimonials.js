@@ -6,28 +6,28 @@ const Testimonials = () => {
 
   const testimonials = [
     {
-      company: "Gymstory",
+      company: "sanjay.ig_",
       title: "CreatorWala Is The Best Digital Agency I Have Ever Seen! Highly Recommended!",
       content: "I recently hired Ideapeel for a custom web development project and couldn't be happier with the results. The team was able to bring my unique ideas to life and create a website that truly stands out.",
-      author: "Diana Loreza",
+      author: "Sanjay Sanwala",
       position: "Director of GYMSTORY",
-      image: "/api/placeholder/400/400"
+      image: "sanjay.jpg"
     },
     {
-      company: "TechCorp",
+      company: "Marwadi Traders",
       title: "Outstanding Service and Results!",
       content: "Working with CreatorWala has transformed our digital presence. Their attention to detail and creative solutions exceeded our expectations.",
-      author: "Michael Chen",
+      author: "Jayraj Singh",
       position: "Marketing Director",
-      image: "/api/placeholder/400/400"
+      image: "marwadi.png"
     },
     {
-      company: "StyleHub",
+      company: "StockBurner",
       title: "Exceptional Creative Partnership!",
       content: "The team's ability to understand our vision and translate it into stunning digital experiences has been incredible. They're true partners in our success.",
-      author: "Sarah Johnson",
+      author: "Dinesh Kerola",
       position: "Creative Lead",
-      image: "/api/placeholder/400/400"
+      image: "burner.jpg"
     }
   ];
 

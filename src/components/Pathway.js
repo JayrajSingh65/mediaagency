@@ -23,7 +23,7 @@ const ProductionServices = () => {
   ];
 
   return (
-    <div className="bg-black text-white min-h-screen p-8">
+    <div className="bg-black text-white min-h-8 p-8">
       {/* Header Section */}
       <div className="max-w-4xl mx-auto mb-12 text-center">
         <p className="text-sm uppercase mb-2 text-gray-400">
