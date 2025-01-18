@@ -36,6 +36,14 @@ const Testimonials = () => {
       author: "Abhijit Thakur",
       position: "influnecer",
       image: "thakur.jpg"
+    },
+    {
+      company: "Piyush_21",
+      title: "Content That Actually Gets Results!",
+      content: "I started seeing more engagement and leads after working with CreatorsWala. They know what works and create content that drives real results. Couldn’t ask for more.",
+      author: "Piyush Sawami",
+      position: "PR Media",
+      image: "piyush.jpg"
     }
   ];
 
